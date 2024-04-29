@@ -8,7 +8,7 @@ I have fun making stuff
 * [```Gray Codes```](https://lovebetween.github.io/GrayCodes/) https://github.com/LoveBetween/GrayCodes
 * [```Pixel propagation image generator```](https://lovebetween.github.io/ColorPixels/) https://github.com/LoveBetween/ColorPixels
 
-## Risk of Rain Returns modding in collaboration with [this guy](https://github.com/gabriel-combe):
+## Risk of Rain Returns modding in collaboration with [```this guy```](https://github.com/gabriel-combe):
 
 * [```Upgraded Cheat sheet```](https://lovebetween.github.io/rorritemcheatsheet/) https://github.com/LoveBetween/rorritemcheatsheet
 
