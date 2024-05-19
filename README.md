@@ -10,17 +10,7 @@ I have fun making stuff
 
 ## Risk of Rain Returns modding in collaboration with [```this guy```](https://github.com/gabriel-combe):
 
-* [```Upgraded Cheat sheet```](https://lovebetween.github.io/rorritemcheatsheet/) https://github.com/LoveBetween/rorritemcheatsheet
-
-* [```ShareTheDebt```](https://github.com/SmoothSpatula/SmoothSpatula-ShareTheDebt)
-* [```SnaaaakeDeath```](https://github.com/SmoothSpatula/SmoothSpatula-SnaaaakeDeath)
-* [```ItemDuplicator```](https://github.com/SmoothSpatula/SmoothSpatula-ItemDuplicator)
-* [```TomlHelper```](https://github.com/SmoothSpatula/SmoothSpatula-TomlHelper)
-* [```DPSindicator```](https://github.com/SmoothSpatula/SmoothSpatula-DPSindicator)
-* [```ChatConsole```](https://github.com/SmoothSpatula/SmoothSpatula-ChatConsole)
-* [```RoRRRandomizer```](https://github.com/SmoothSpatula/SmoothSpatula-RoRRRandomizer)
-* [```RandomCharacter```](https://github.com/SmoothSpatula/SmoothSpatula-RandomCharacter)
-
+[```SmoothSpatula```](https://github.com/orgs/SmoothSpatula/repositories)
 
 # Currently working on finishing this :
 * [```LethalRain```](https://github.com/SmoothSpatula/SmoothSpatula-LethalRain)
