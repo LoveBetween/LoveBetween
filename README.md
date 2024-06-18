@@ -11,6 +11,3 @@ I have fun making stuff
 ## Risk of Rain Returns modding in collaboration with [```this guy```](https://github.com/gabriel-combe):
 
 [```SmoothSpatula```](https://github.com/orgs/SmoothSpatula/repositories)
-
-# Currently working on finishing this :
-* [```LethalRain```](https://github.com/SmoothSpatula/SmoothSpatula-LethalRain)
