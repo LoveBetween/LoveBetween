@@ -7,6 +7,7 @@ I have fun making stuff
 * [```Maze generation and solving```](https://lovebetween.github.io/JSMazes/) https://github.com/LoveBetween/JSMazes
 * [```Gray Codes```](https://lovebetween.github.io/GrayCodes/) https://github.com/LoveBetween/GrayCodes
 * [```Pixel propagation image generator```](https://lovebetween.github.io/ColorPixels/) https://github.com/LoveBetween/ColorPixels
+* [```DAWGs and word searches```](https://lovebetween.github.io/WordSearch/) https://github.com/LoveBetween/WordSearch
 
 ## Risk of Rain Returns modding in collaboration with [```this guy```](https://github.com/gabriel-combe):
 
