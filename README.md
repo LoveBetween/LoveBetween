@@ -1,5 +1,3 @@
-# LoveBetween
-
 I have fun making stuff
 
 ## Algorithms :
